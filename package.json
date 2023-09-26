@@ -1,0 +1,10 @@
+{
+  "type":"module",
+  "dependencies": {
+    "@picovoice/porcupine-node": "^2.2.1",
+    "@waylaidwanderer/chatgpt-api": "^1.37.3",
+    "bing-chat": "^0.2.3",
+    "googlebard": "^1.0.7",
+    "sydney-ai": "^1.0.1"
+  }
+}
